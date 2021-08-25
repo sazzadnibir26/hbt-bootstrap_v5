@@ -47,6 +47,10 @@
     #showcase .showcase-content {
         padding: 70px 0;
     }
+    
+    #testimonials .testimonial {
+        text-align: center;
+    }
 }
 
 @media(max-width: 768px) {
